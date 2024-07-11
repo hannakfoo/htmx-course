@@ -6,7 +6,6 @@
 - HTMX for beginners Part 2 (https://youtu.be/hh8B0eQCWUw?si=3AK6ag6ux1W_7AsM)
 
 
-
 ## Documentation
 https://htmx.org/
 
